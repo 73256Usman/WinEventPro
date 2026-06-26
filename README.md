@@ -2,6 +2,8 @@
 
 A Windows Event Log monitor built for blue teamers, sysadmins, and anyone who wants to know what's actually happening on their machine in real time.
 
+<img width="1297" height="844" alt="image" src="https://github.com/user-attachments/assets/8384a015-2149-405a-8c72-686be55c85d0" />
+
 It watches your Windows Security, System, and Application logs live, flags suspicious activity with plain-English descriptions, and gives you the context to actually investigate — not just a raw event ID and a wall of text.
 
 ---
@@ -60,3 +62,17 @@ Requires Windows 10 or later. The app will ask for administrator permission on l
 ---
 
 ## Screenshots
+
+<img width="1297" height="844" alt="image" src="https://github.com/user-attachments/assets/97d9aa9c-a261-423e-9e7a-be1cfdf2debb" />
+
+<img width="1296" height="842" alt="image" src="https://github.com/user-attachments/assets/b492652a-768c-4eea-abb8-fc942088651e" />
+
+<img width="1294" height="842" alt="image" src="https://github.com/user-attachments/assets/2b5e0657-9280-4be2-92e8-d2dee3913d50" />
+
+<img width="1294" height="842" alt="image" src="https://github.com/user-attachments/assets/d055c8cb-a9fa-4662-b737-39e726e6edc1" />
+
+<img width="1294" height="846" alt="image" src="https://github.com/user-attachments/assets/a2496a90-d236-41c0-97e8-b9627ffa0fd0" />
+
+
+
+

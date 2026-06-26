@@ -4,7 +4,7 @@ A Windows Event Log monitor built for blue teamers, sysadmins, and anyone who wa
 
 <img width="1297" height="844" alt="image" src="https://github.com/user-attachments/assets/8384a015-2149-405a-8c72-686be55c85d0" />
 
-It watches your Windows Security, System, and Application logs live, flags suspicious activity with plain-English descriptions, and gives you the context to actually investigate — not just a raw event ID and a wall of text.
+It watches your Windows Security, System, and Application logs live, flags suspicious activity with plain-English descriptions, and gives you the context to actually investigate, not just a raw event ID and a wall of text.
 
 ---
 
@@ -12,8 +12,8 @@ It watches your Windows Security, System, and Application logs live, flags suspi
 
 **Live Monitoring**
 - Watches Security, System, and Application logs in real time
-- Every event is colour-coded by severity: Critical / High / Medium / Low / Info
-- Descriptions are written in plain English — no need to look up event IDs
+- Every event is colour coded by severity: Critical / High / Medium / Low / Info
+- Descriptions are written in plain English, no need to look up event IDs
 - Flashing live indicator so you always know monitoring is active
 
 **Threat Detection**
@@ -55,7 +55,7 @@ It watches your Windows Security, System, and Application logs live, flags suspi
 3. Run the installer and follow the steps
 4. Launch from your desktop or Start Menu
 
-Requires Windows 10 or later. The app will ask for administrator permission on launch — this is needed to read the Security event log.
+Requires Windows 10 or later. The app will ask for administrator permission on launch, this is needed to read the Security event log.
 
 > **Note:** Some antivirus tools may flag this as suspicious due to its use of Windows Event Log APIs. The full source is not published but the tool is safe. If your AV blocks it, add an exception or check the releases page for notes.
 

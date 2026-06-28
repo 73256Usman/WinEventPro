@@ -1,4 +1,4 @@
-# WinEvent Pro
+# WinEvent Pro - A simple & effective alternative to Windows Event Viewer (Local with ui)
 
 A Windows Event Log monitor built for blue teamers, sysadmins, and anyone who wants to know what's actually happening on their machine in real time.
 
